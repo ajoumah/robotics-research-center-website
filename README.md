@@ -41,9 +41,9 @@ Stay updated with our latest research papers and news:
 
 ## Our Research Focus
 
-- ![Robot](https://cdn-icons-png.flaticon.com/512/2907/2907761.png) **Robotics:** Autonomous systems, navigation, and control algorithms.
-- ![Brain](https://cdn-icons-png.flaticon.com/512/1995/1995513.png) **Machine Learning:** Deep learning, reinforcement learning, and AI modeling.
-- ![Eye](https://cdn-icons-png.flaticon.com/512/3064/3064197.png) **Computer Vision:** Visual perception, object detection, and image analysis.
+- !🤖 **Robotics:** Autonomous systems, navigation, and control algorithms.
+- !🧠 **Machine Learning:** Deep learning, reinforcement learning, and AI modeling.
+- !👁️ **Computer Vision:** Visual perception, object detection, and image analysis.
 
 
 ---
