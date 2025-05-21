@@ -39,16 +39,12 @@ Stay updated with our latest research papers and news:
 
 ---
 
-## Connect With Us
+## Our Research Focus
 
-Explore our [Projects](Projects.aspx), meet our [Researchers](Researchers.aspx), and check out our latest [Publications](Publications.aspx). For inquiries, visit our [Contact](Contact.aspx) page.
+- ![Robot](https://cdn-icons-png.flaticon.com/512/2907/2907761.png) **Robotics:** Autonomous systems, navigation, and control algorithms.
+- ![Brain](https://cdn-icons-png.flaticon.com/512/1995/1995513.png) **Machine Learning:** Deep learning, reinforcement learning, and AI modeling.
+- ![Eye](https://cdn-icons-png.flaticon.com/512/3064/3064197.png) **Computer Vision:** Visual perception, object detection, and image analysis.
 
----
-
-© <%= DateTime.Now.Year.ToString() %> RMLCV Lab  
-Part of the Faculty of Engineering at [Hasan Kalyoncu University](https://www.hku.edu.tr/eng/)  
-Funded by: CARA (Council for At Risk Academics)
 
 ---
 
-![Robot Icon](https://em-content.zobj.net/thumbs/240/apple/325/robot-face_1f916.png)
